@@ -5,6 +5,6 @@ job ("JOB_NAME") {
         numToKeep(-1)
     }
     steps {
-        shell("echo 'hello world'")
+        shell("echo 'hello people'")
     }
 }
