@@ -1,4 +1,4 @@
-job ("JOB_NAME") {
+job ("$JOB_NAME") {
 
     logRotator {
         daysToKeep(10)
