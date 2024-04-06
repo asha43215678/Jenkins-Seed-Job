@@ -1,4 +1,4 @@
-job ('SampleJenkinsJob') {
+job ('JOB_NAME) {
 
     logRotator {
         daysToKeep(10)
